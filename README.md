@@ -2,6 +2,10 @@
 # Neural Noiseprint Transfer: A Generic Noiseprint-Based Counter Forensics Framework
 
 
+
+[![DOI](https://zenodo.org/badge/544620690.svg)](https://zenodo.org/badge/latestdoi/544620690)
+
+
 ## License
 Copyright (c) 2022 Ahmed Elliethy.
 
