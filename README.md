@@ -60,7 +60,7 @@ python3 main_nnt.py --img_forged_filename='Demo/splicing-02.png' --img_auth_file
 Elliethy A. 2023. Neural noiseprint transfer: a generic noiseprint-based counter forensics framework. PeerJ Computer Science 9:e1359 https://doi.org/10.7717/peerj-cs.1359 
 ```
 @article{Elliethy2022_NNT,
-  title={# Neural Noiseprint Transfer: A Generic Noiseprint-Based Counter Forensics Framework},
+  title={Neural Noiseprint Transfer: A Generic Noiseprint-Based Counter Forensics Framework},
   author={Ahmed Elliethy},
   journal={PeerJ Computer Science},
   doi={https://doi.org/10.7717/peerj-cs.1359}
